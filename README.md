@@ -81,6 +81,6 @@ git push origin main
 ## Submitted By
 - **Full Name**: Roshan Kumar Jha
 - **GitHub**: https://github.com/rosnnn/feedback-app
-- **Netlify**: 
+- **Netlify**: https://app-feedback-collection.netlify.app/
 
 © 2025 Rosn — Feedback Collector Submission
